@@ -1,0 +1,6 @@
+*.h5
+*.h6
+best_model/
+*.zip
+data/
+notebook/
